@@ -1,0 +1,13 @@
+*{
+    background-color: #011936;
+}
+h1{
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline double firebrick;
+}
+pre{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+}
